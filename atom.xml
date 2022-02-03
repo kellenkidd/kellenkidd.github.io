@@ -1,33 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>xiaohetao</title>
+  <title>新世界</title>
   
-  
+  <subtitle>面朝大海春年花开</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-02-02T11:01:30.000Z</updated>
+  <updated>2022-02-02T10:45:33.000Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>snowmoon</name>
+    <name>SnowMoon</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>pag</title>
-    <link href="http://example.com/2022/02/02/page/"/>
-    <id>http://example.com/2022/02/02/page/</id>
-    <published>2022-02-02T11:01:30.000Z</published>
-    <updated>2022-02-02T11:01:30.000Z</updated>
-    
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
